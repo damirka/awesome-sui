@@ -66,6 +66,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 - Sui TypeScript SDK (Mysten Labs) - TypeScript modular library of tools for interacting with the Sui Blockchain.
   - [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/sui) - [Documentation](https://sdk.mystenlabs.com/typescript) - [Further Information](details/sdk_sui_typescript.md)
+- [Walrus TypeScript SDK (Mysten Labs)](https://sdk.mystenlabs.com/walrus) - TypeScript SDK for storing and retrieving blobs on Walrus decentralized storage.
 - Sui Kit(Scallop) - Toolkit for interacting with the Sui network in TypeScript.
   - [GitHub](https://github.com/scallop-io/sui-kit) - [Further Information](details/sdk_sui_kit_scallop.md)
 - Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui Blockchain.
@@ -88,6 +89,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe-docs.obelisk.build/)
 
 ### DeFi SDKs
+- [DeepBook V3 SDK (Mysten Labs)](https://github.com/MystenLabs/ts-sdks/tree/main/packages/deepbook-v3) - TypeScript SDK for integrating with the DeepBook on-chain order book on Sui.
 - [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui Blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
 - [Bucket Protocol SDK](https://github.com/Bucket-Protocol/bucket-protocol-sdk) - The TypeScript SDK for interacting with Bucket Protocol.
 - [Suilend SDK](https://www.npmjs.com/package/@suilend/sdk) - The TypeScript SDK for interacting with the Suilend program, published as `@suilend/sdk`.
@@ -127,7 +129,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - Suiet Wallet Kit - React toolkit for aApps to interact with all wallet types in Sui easily.
   - [GitHub](https://github.com/suiet/wallet-kit) - [Documentation](https://kit.suiet.app/docs/QuickStart)
 - [Sui Suitcase](https://github.com/juzybits/polymedia-suitcase) - Sui utilities for TypeScript, Node, and React.
-- [Sui MultiSig Toolkit (Mysten Labs)](https://multisig-toolkit.vercel.app/offline-signer) - Toolkit for transaction signing.
+- [Sagat (Mysten Labs)](https://sagat.mystenlabs.com/) - Toolkit for managing Sui multisig wallets and signing transactions.
 - [Sui dApp Scaffold (Bucket Protocol)](https://github.com/Bucket-Protocol/sui-dapp-scaffold-v1) - A frontend scaffold for a decentralized application (dApp) on the Sui Blockchain.
 - [Wormhole Kit (zktx.io)](https://github.com/zktx-io/wormhole-kit-monorepo) - React library that enables instant integration of Wormhole into your dapp.
 - SuiBase - Suibase makes it easy to create "workdirs", each defining a distinct development environment targeting a network.
@@ -235,6 +237,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ## Security
 
+- [Seal SDK (Mysten Labs)](https://sdk.mystenlabs.com/seal) - TypeScript SDK for threshold encryption with access control policies defined on Sui.
 - <a href="https://info.asymptotic.tech/sui-prover"><img alt="Sui Prover logo" src="media/prover_logo.svg" width="15" /></a> [Sui Prover](https://info.asymptotic.tech/sui-prover) - Prover for doing Formal Verification of Move on Sui code.
 - [SuiSecBlockList](https://github.com/SuiSec/SuiSecBlockList) - Block malicious websites and packages, Identify and hide phishing objects.
 - [DryRunTransactionBlockResponsePlus](https://github.com/SuiSec/DryRunTransactionBlockResponsePlus) - Decorator of `DryRunTransactionBlockResponse`, highlight `SenderChange`.
@@ -244,7 +247,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 ## AI
 - [Mysten Labs Agent Skills](https://github.com/MystenLabs/skills) - Reusable agent skills for building on Sui with Claude Code, Cursor, Codex, and other AI coding agents.
 - [Talus](https://docs.talus.network/) - Build autonomous digital economy powered by Sui.
-  - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
+  - [GitHub](https://github.com/Talus-Network) - [Getting Started](https://docs.talus.network/guides/getting-started)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
 
